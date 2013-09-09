@@ -3,17 +3,17 @@
 <!-- config.xml reference: https://build.phonegap.com/docs/config-xml -->
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
-        id        = "com.phonegap.helloworld"
-        version   = "1.0.0">
+        id        = "se.xn--hlsoboken-v2a.beta1"
+        version   = "0.0.1">
 
-    <name>HelloWorld</name>
+    <name>Hälsoboken beta1</name>
 
     <description>
-        Hello World sample application that responds to the deviceready event.
+        Hälsoboken vill göra det enkelt att förstå utan att förenkla. En tjänst för att lära och förstå hur man kan påverka sin egen hälsa. 
     </description>
 
-    <author href="http://phonegap.com" email="support@phonegap.com">
-        PhoneGap Team
+    <author href="http://yellotab.com" email="support@jidoka.zendesk.com">
+        YelloTAB Support Team
     </author>
 
     <!--
