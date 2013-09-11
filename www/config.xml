@@ -92,8 +92,8 @@
     <access origin="http://127.0.0.1*"/> <!-- allow local pages -->
     <access origin="*" /> <!-- allow any external pages -->
     <access origin="http://3070.se" /> <!-- allow any secure requests to http://3070.se/ -->
-        <!--
-        <access origin="http://phonegap.com" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
+    <access origin="http://3070.se/bjigbgkeehiuvjlgkrevkfbggrlhcdgkcuejvvvhebev/" subdomains="true" />  - same as above, but including subdomains, such as http://build.phonegap.com/
+      <!--
         <access origin="http://phonegap.com" browserOnly="true" /> - only allows http://phonegap.com to be opened by the child browser.
     -->
 
