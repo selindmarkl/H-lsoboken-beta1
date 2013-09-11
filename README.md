@@ -26,7 +26,9 @@ Create a new app with the following repository:
 
 The application is based on the [Apache Cordova Hello World][cordova-app] app.
 
-If you are using PhoneGap Build, you shouldn't include a phonegap.js file as PhoneGap Build will substitute the appropriate phonegap.js for each platform during the compilation process. However, with PhoneGap build you must include a script tag to phonegap.js but not the actual file: <script src="phonegap.js"></script>.
+If you are using PhoneGap Build, you shouldn't include a phonegap.js file as PhoneGap Build will substitute the appropriate phonegap.js for each platform during the compilation process. However, with PhoneGap build you must include a script tag to phonegap.js but not the actual file: 
+   
+      `<script src="phonegap.js"></script>`
 
 ### 1. Update the Source
 
